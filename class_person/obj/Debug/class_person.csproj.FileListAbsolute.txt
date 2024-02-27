@@ -1,0 +1,6 @@
+C:\Users\vladmir\RiderProjects\class_person\class_person\bin\Debug\class_person.exe
+C:\Users\vladmir\RiderProjects\class_person\class_person\bin\Debug\class_person.pdb
+C:\Users\vladmir\RiderProjects\class_person\class_person\obj\Debug\class_person.csproj.AssemblyReference.cache
+C:\Users\vladmir\RiderProjects\class_person\class_person\obj\Debug\class_person.csproj.CoreCompileInputs.cache
+C:\Users\vladmir\RiderProjects\class_person\class_person\obj\Debug\class_person.exe
+C:\Users\vladmir\RiderProjects\class_person\class_person\obj\Debug\class_person.pdb
